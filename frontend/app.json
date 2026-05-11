@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "FoodShare",
+    "slug": "food-waste-platform",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#006B42"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.foodshare.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#006B42"
+      },
+      "softwareKeyboardLayoutMode": "pan",
+      "package": "com.foodshare.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+# ── Node ──
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── Environment variables (NEVER commit these) ──
+.env
+*.env.local
+
+# ── Expo ──
+.expo/
+dist/
+web-build/
+*.orig.*
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+env/
+*.egg-info/
+.Python
+
+# ── AI Model (large binary file) ──
+ai-service/model/saved_model.pkl
+
+# ── Uploads (user uploaded images) ──
+backend/uploads/
+
+# ── OS files ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ──
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Logs ──
+logs/
+*.log
