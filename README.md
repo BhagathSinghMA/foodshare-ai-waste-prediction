@@ -180,6 +180,7 @@ AI_SERVICE_URL=http://localhost:8000
 
 ## 📸 Screenshots
 
+![Available Food Page](https://raw.githubusercontent.com/BhagathSinghMA/foodshare-ai-waste-prediction/main/available%20food%20page.png)
 ---
 
 ## 🤝 Contributing
