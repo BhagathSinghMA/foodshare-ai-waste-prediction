@@ -189,6 +189,19 @@ AI_SERVICE_URL=http://localhost:8000
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
+# Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nabeesa23a-web">
+        <img src="https://github.com/nabeesa23a-web.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Nabeesa</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
